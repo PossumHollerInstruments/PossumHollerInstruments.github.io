@@ -1,0 +1,154 @@
+h1 {
+	background-color: #34675C;
+	text-align: center;
+	color: #050404;
+	border-radius: 20px;
+	padding: 20px;
+	border-style: solid;
+	border-width: 10px;
+	font-family: 'Lobster';
+	font-size: 75px;
+
+}
+.table_of_contents {
+	text-align: center;
+	color: #050404;
+	font-family: 'Lobster';
+	font-size: 40px;
+	font-color: #050404;
+}
+
+.table_title {
+	font-family: 'Lobster';
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	color: #050404;
+
+}
+
+.home {
+	border-style: solid;
+	border: 5px;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+body {
+	background: #B7B8B6;
+	color: white;
+	font: 20px/1.8 Monaco, Mono-Space;
+	padding: 20px;
+}
+
+table { 
+		border-collapse: collapse;
+		width: 20%;
+		border: 5px;
+		border-style: solid;
+		color: #050404;
+
+}
+
+a {
+	color: #000000;
+
+}
+
+a:link {
+	text-decoration: none;
+	border-style: solid;
+	border: 5px;
+
+}
+
+a:hover {
+	border: 5px;
+	text-decoration: underline;
+}
+
+td {
+	text-align: center;
+	border: 1px solid;
+	padding: 5px;
+}
+
+th {
+	text-align: center;
+	border: 1px solid;
+	padding: 5px;
+}
+
+caption {
+	font-weight: bold;
+}
+
+form {
+	text-align: center;
+}
+
+.store_hours {
+	margin: 0px auto;
+}
+
+.phi_image {
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+
+.store {
+	padding: 20px;
+	margin: auto;
+	width: auto;
+	height: auto;
+	display: block;
+}
+
+.strat {
+	width: 390px;
+
+}
+
+.jazzmaster {
+	width: 390px;
+}
+
+.guitar_pics {
+	text-align: center;
+}
+
+.jc120 {
+	width: 500px;
+}
+
+.amps {
+	text-align: center;
+}
+
+.ac30 {
+	width: 500px;
+}
+
+.twin {
+	width: 500px;
+}
+
+.delay {
+	width: 500px;
+}
+
+.effects {
+	text-align: center;
+}
+
+.about {
+	text-align: center;
+	color: #000000;
+}
